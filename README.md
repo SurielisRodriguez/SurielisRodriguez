@@ -5,9 +5,9 @@
  <br />
 
 
-| ![SurielisRodriguez's github stats](https://github-readme-stats.vercel.app/api?username=SurielisRodriguez&show_icons=true&theme=gruvbox) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SurielisRodriguez&theme=gruvbox&border_radius=4.6)](https://SurielisRodriguez.co) |
+| ![SurielisRodriguez's github stats](https://github-readme-stats.vercel.app/api?username=SurielisRodriguez&show_icons=true&theme=midnight-purple) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SurielisRodriguez&theme=midnight-purple&border_radius=4.6)](https://SurielisRodriguez.co) |
 | --- | --- |
-|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SurielisRodriguez&size_weight=0.5&count_weight=0.5&theme=gruvbox)](https://github.com/SurielisRodriguez/)| ![Github Stars](https://github-readme-stats.vercel.app/api?username=SurielisRodriguez&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=gruvbox) |<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SurielisRodriguez&size_weight=0.5&count_weight=0.5&theme=midnight-purple)](https://github.com/SurielisRodriguez/)| ![Github Stars](https://github-readme-stats.vercel.app/api?username=SurielisRodriguez&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=midnight-purple) |<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
 
